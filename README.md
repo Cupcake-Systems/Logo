@@ -2,7 +2,7 @@
 
 ## Logo
 
-![](Logo/Exported/Logo.svg)
+![](Logo/Exported/Logo.webp)
 
 
 ## Full Logo
